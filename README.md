@@ -2,17 +2,17 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ElQuatroo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeQuatro&screen_name=ElQuatroo)
 
-## 16 yo, intermediate level in informatic
+## 16 yo, intermediate level in computer science
  
 - 🔭 Pentester lover 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other pentester :)
+- 👯 I’m looking to collaborate with other pentesters :)
 - 🥅 2021 Goals: Do more CTF
 
 <br />
 <br />
 
-### Languages :
+### Languages & tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,4 +35,4 @@
 
 ### 📺 Twitch
 
-- I love stream :) --> https://twitch.tv/quatrodelfuegoo)
+- I love streaming :) --> https://twitch.tv/quatrodelfuegoo)
