@@ -34,6 +34,4 @@
 
 ---
 
-### 📺 Twitch
 
-- I love streaming :) --> https://twitch.tv/quatrodelfuegoo)
