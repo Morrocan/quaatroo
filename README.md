@@ -13,7 +13,10 @@
 <br />
 <br />
 
-<img align="left" alt="oé" width="200px" src="http://ani-github.github.io/animegifs/death-note/lookingaround.gif" />
+<img align="left" alt="oé" width="500px" src="http://ani-github.github.io/animegifs/death-note/lookingaround.gif" />
+
+<br />
+<br />
 
 ### Languages & tools :
 
