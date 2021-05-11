@@ -15,15 +15,6 @@
 
 <img align="left" alt="oé" width="500px" src="http://ani-github.github.io/animegifs/death-note/lookingaround.gif" />
 
-<br />
-<br />
-<br />
-<br />
 
-
-<br />
-<br />
-
----
 
 
