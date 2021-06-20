@@ -1,7 +1,7 @@
-### Hi , I'm Quatro.
+### Hi , I'm quatro.
 
 
-## 16 yo, intermediate level in computer science
+## 16 yo, newbie level in computer science
  
 -  One of owner of @PlectaBots
 - Pentester lover 
@@ -10,8 +10,9 @@
 
 <br />
 
-
-<img src="<https://media.giphy.com/media/GQCYTiV1VdXzRimSOV/giphy.gif" width="40" height="40" />
+<p align='center'>
+<img src="https://media.giphy.com/media/GQCYTiV1VdXzRimSOV/giphy.gif"/>
+</p>
 
 
 
