@@ -5,14 +5,13 @@
  
 -  One of owner of @PlectaBots
 - Pentester lover 
-- I’m currently learning everything 🤣
 - I’m looking to collaborate with other pentesters :)
 -  2021 Goals: Do more CTF
 
 <br />
 
 
-<img align="left" alt="oé" width="500px" src="http://ani-github.github.io/animegifs/death-note/lookingaround.gif" />
+<img src="<https://media.giphy.com/media/GQCYTiV1VdXzRimSOV/giphy.gif" width="40" height="40" />
 
 
 
